@@ -54,12 +54,12 @@ h2{
 }
 #web-dev-exprience{
     border-left: 7px solid;
-    border-image: linear-gradient(rgb(73, 141, 197) rgb(230, 252, 252));
+    border-image: linear-gradient(green,red);
     border-image-slice: 1;
 }
 #full-stack-experience{
     border-left: 7px solid;
-    border-image: linear-gradient(blue cyan);
+    border-image: linear-gradient(green,red);
     border-image-slice: 1;
 }
 footer p {
